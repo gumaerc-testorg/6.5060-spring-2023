@@ -1,7 +1,7 @@
 leftnav:
-- identifier: external--539947917-1695230431281
+- identifier: 3ac6f70c-8f1e-4b5f-aaf8-5c6682c8eda3
   name: Online Publication
-  url: https://people.csail.mit.edu/jshun/6506-s23/
+  pageRef: /external-resources/online-publication_3ac6f70c-8f1e-4b5f-aaf8-5c6682c8eda3
   weight: 10
 - identifier: 512541a4-40a1-46cf-83b2-5fa6c2422481
   name: Test Page
