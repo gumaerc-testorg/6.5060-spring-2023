@@ -1,13 +1,5 @@
 leftnav:
-- identifier: 3ac6f70c-8f1e-4b5f-aaf8-5c6682c8eda3
+- identifier: c481a7df-7fc3-42ba-b1f0-f63c5fa091e9
   name: Online Publication
-  pageRef: /external-resources/online-publication_3ac6f70c-8f1e-4b5f-aaf8-5c6682c8eda3
+  pageRef: /external-resources/online-publication_c481a7df-7fc3-42ba-b1f0-f63c5fa091e9
   weight: 10
-- identifier: 512541a4-40a1-46cf-83b2-5fa6c2422481
-  name: Test Page
-  pageRef: /pages/test-page
-  weight: 20
-- identifier: 3e3520c8-243a-4164-89bf-c2504f1f18d8
-  name: c4103
-  pageRef: /external-resources/c4103
-  weight: 30
